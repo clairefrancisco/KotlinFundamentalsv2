@@ -31,6 +31,12 @@ fun main(){
     val product = 10
     val nickTwoName = "clara marie"
 
+//    for (c in nickTwoName.toCharArray()) {
+//        when (c) {
+//            'a', 'e', 'i', 'o', 'u' ->   println("${nickName.replace(c,'!')}")
+//        }
+//    }
+
     val words = nickTwoName.split(" ").toMutableList()
     var newNickname = ""
 

@@ -1,18 +1,18 @@
 fun main() {
     // Call arithmetic
-//    arithmetic()
+    arithmetic()
 
     // Call comparison
-//    comparison()
+    comparison()
 
     // Call assignment
-//    assignment()
+    assignment()
 
     // Call additionAssignment
-//    additionAssignment()
+    additionAssignment()
 
     // Call incrementDecrement
-//    incrementDecrement()
+    incrementDecrement()
 
     //Call logical()
     logical()

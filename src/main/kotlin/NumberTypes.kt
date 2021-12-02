@@ -3,6 +3,8 @@ fun main() {
     numberTypes1()
     // Call number types 2
     numberTypes2()
+
+
 }
 
 fun numberTypes1() {
